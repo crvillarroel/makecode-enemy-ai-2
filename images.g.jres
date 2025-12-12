@@ -1,0 +1,31 @@
+{
+    "image1": {
+        "data": "hwQOAA4AAAAAAAD7/w8AAAAAAN/d+wAAAAAA+//9AAAAAAAA8Pv/AM7M7/6/2/0A3jvb3bLdDwDevdPfLb0PAMDd3f0t3f0AAL/d3Svd/wAA393dK90PAMDd3f0t3Q8A3r3T3y3b/QDeO9vd+///AM7M7/4PAAAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "MyCatBack"
+    },
+    "image2": {
+        "data": "hwQOAA4AAADOzO/+DwAAAN472937//8A3r3T3y3b/QDA3d39Ld0PAADf3d0r3Q8AAL/d3Svd/wDA3d39Ld39AN69098tvQ8A3jvb3bLdDwDOzO/+v9v9AAAAAADw+/8AAAAA+//9AAAAAADf3fsAAAAAAPv/DwAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "MyCat"
+    },
+    "anim1": {
+        "namespace": "myAnimations",
+        "id": "anim1",
+        "mimeType": "application/mkcd-animation",
+        "data": "NjQwMDBlMDAwZTAwMDMwMDAwMDBlZTBlMDBlMGVlMDAwMGRjY2QwMGRjY2QwMDAwYmNkZGZmZGRjYjAwMDAzY2RiZGJiZGMzMDAwMGJmZDNkZDNkZmIwMDAwZGVkZGRkZGRlZGZiMGJkZWRmZGRmZGVkZGYwZmRmZmRkZGRmZmRkZjBmMmZkZGJiZGRmYmRmZmZiYjIyMjIyMjBmYmZiZGRiZGRkZGJkMGZmMGZmZGRkYmRkZGQwZjAwZjBmZGRmZmZkZjBmMDBmMDBmZjAwZmYwMGYwMDAwMDAwMDAwMDAwMDAwMDBlZTBlMDBlMGVlMDAwMGRjY2QwMGRjY2QwMDAwYmNkZGZmZGRjYjAwMDAzY2RiZGJiZGMzMDAwMGJmZDNkZDNkZmIwMDAwZGVkZGRkZGRlZGIwYmZkZWRmZGRmZGVkZjBmZGRmZmRkZGRmZmRmMGZkMmJkZGJiZGRmYmYwZGJkYjIyMjIyMjBmMDBmZmRmZGRkZGRkMGYwMDAwZGZmZmRmZGIwZjAwMDBmZjAwZmZmZjAwMDAwMDAwMDAwMDAwMDAwMDAwZWUwZTAwZTBlZTAwMDBkY2NkMDBkY2NkMDAwMGJjZGRmZmRkY2IwMDAwM2NkYmRiYmRjMzAwMDBiZmQzZGQzZGZiMDAwMGRlZGRkZGRkZWRmYjBiZGVkZmRkZmRlZGRmMGZkZmZkZGRkZmZkZGZmZjJiZGRiYmRkZmJiZmJkZGIyMjIyMjIwZmYwZmZkZmRkZGRkZDBmMDAwMGYwZmRiZGZkMDAwMDAwZjBmZmZmMGYwMA==",
+        "displayName": "CatWalk"
+    },
+    "anim2": {
+        "namespace": "myAnimations",
+        "id": "anim2",
+        "mimeType": "application/mkcd-animation",
+        "data": "YzgwMDBlMDAwZTAwMDMwMGVlMGUwMGUwZWUwMDAwZGNjZDAwZGNjZDAwMDBiY2RkZmZkZGNiMDAwMDNjZGJiZGJkYzMwMDAwYmZkM2RkM2RmYjAwMDBkZWRkZGRkZGVkMDAwMGRlZGZkZGZkZWRiMGJmZGZmZGRkZGZmZGYwZmRiZmRkYmJkZGYyZjBmZGYwMjIyMjIyYmJmZmZkZjBkYmRkZGRiZGRiZmJmMGRkZGRiZGRkZmYwZmYwZmRmZmZkZGYwZjAwZjAwZmYwMGZmMDBmMDAwMDAwMDAwMDAwMDAwMGVlMGUwMGUwZWUwMDAwZGNjZDAwZGNjZDAwMDBiY2RkZmZkZGNiMDAwMDNjZGJiZGJkYzMwMDAwYmZkM2RkM2RmYjAwMDBkZWRkZGRkZGVkMDAwMGRlZGZkZGZkZWRmYjBiZGZmZGRkZGZmZGRmMGZiZmRkYmJkZGIyZGYwZmYwMjIyMjIyYmRiZDBmZjBkZGRkZGRmZGZmMDBmMGJkZmRmZmZkMDAwMDAwZmZmZjAwZmYwMDAwMDAwMDAwMDAwMDAwMDBlZTBlMDBlMGVlMDAwMGRjY2QwMGRjY2QwMDAwYmNkZGZmZGRjYjAwMDAzY2RiYmRiZGMzMDAwMGJmZDNkZDNkZmIwMDAwZGVkZGRkZGRlZDAwMDBkZWRmZGRmZGVkYjBiZmRmZmRkZGRmZmRmMGZkYmZkZGJiZGRiMmZmZmRmMDIyMjIyMmJkZGJmYmYwZGRkZGRkZmRmZjBmMDBkZmRiZGYwZjAwMDAwMGYwZmZmZjBmMDAwMA==",
+        "displayName": "CatWalkBack"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
