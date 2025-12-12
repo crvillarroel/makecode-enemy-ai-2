@@ -31,6 +31,7 @@ function starkNextLevel () {
     if (currentLevel == 1) {
         tiles.setTilemap(tilemap`level0`)
         mySprite = sprites.create(assets.image`MyCatBack`, SpriteKind.Player)
+        mySprite.sayText("Hi I'm here!")
         controller.moveSprite(mySprite, 100, 0)
         mySprite.ay = 500
         scene.cameraFollowSprite(mySprite)
